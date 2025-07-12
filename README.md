@@ -31,3 +31,5 @@ We use the [MovieLens 25M](https://grouplens.org/datasets/movielens/25m/) datase
    git clone https://github.com/your-username/movie-recommender.git
    cd movie-recommender
 
+pip install -r requirements.txt
+3. **Create a `.env` file** and add your TMDb API key:
