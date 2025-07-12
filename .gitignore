@@ -1,1 +1,4 @@
 .env
+# Ignore large data files
+ratings.csv
+genome-scores.csv
